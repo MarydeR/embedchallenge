@@ -21,3 +21,12 @@ h3 {
   margin: 30px auto;
   width: 150px;
 }
+.container1 {
+  max-width: 1000px;
+}
+
+.vid2 {
+  width: 100%;
+  aspect-ratio: 21/ 9;
+  border-radius: 16px;
+}
